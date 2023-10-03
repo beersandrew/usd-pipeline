@@ -7,8 +7,8 @@ To create small animations from start to finish to truly teach myself how to use
 ## Pipeline Architecture
 
 ### Ideation
-Input: Time / Creativity?
-Output: Text overview of a project
+- Input: Time / Creativity?
+- Output: Text overview of a project
 
 #### Goal
 Come up with a general idea of a project
@@ -20,8 +20,8 @@ Come up with a general idea of a project
 Come up with a format for this? Does one already exist?
 
 ### Script / Screenplay
-Input: Ideation Doc
-Output: Formalized text description of project, broken up into scenes
+- Input: Ideation Doc
+- Output: Formalized text description of project, broken up into scenes
 
 #### Goal
 Break down the project into specific scenes
@@ -40,8 +40,8 @@ Try out professional options here
 
 
 ### Storyboarding
-Input: Individual scene from script / screenplay
-Output: Rough visual sketches of key frames from the scene, with rudimentary sounds, (movie file?, .mov?, otio?)
+- Input: Individual scene from script / screenplay
+- Output: Rough visual sketches of key frames from the scene, with rudimentary sounds, (movie file?, .mov?, otio?)
 
 #### Goal
 Get visual understanding and emotional feel, if the scene is 'working'
