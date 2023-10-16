@@ -63,7 +63,13 @@ Get visual understanding and emotional feel, if the scene is 'working'
 - [FrameForge](https://www.frameforge.com)
 
 ### Resources
-
+- [The Art of Storyboarding with Ridley Scott](https://www.youtube.com/watch?v=ZJVSpbmXDZg)
+- [Storyboarding tips from Dreamworks](https://www.premiumbeat.com/blog/10-tips-for-creating-storyboards-from-dreamworks/)
+- [How to draw storyboards - The Media Insider](https://www.youtube.com/watch?v=NPrkxj2MyZI)
+- [How to draw storyboards - Nur Niaz](https://www.youtube.com/watch?v=EaLMz5Y5t9A)
+- [Intro to storyboarding](https://www.youtube.com/watch?v=RQsvhq28sOI)
+- [Lessons from the Parasite storyboards](https://www.youtube.com/watch?v=JE26E4IM_-g)
+- [Story re-boarding at Pixar](https://www.youtube.com/watch?v=7LKPVAIcDXY)
 
 ## Art
 - Input: Description of characters / environments
