@@ -47,7 +47,7 @@ Break down the project into specific scenes
 - [Book - Story Structure and Development: Craig Caldwell](https://www.amazon.com/Story-Structure-Development-Animators-Designers/dp/149878173X/ref=sr_1_1?crid=NFROCJ2RYIK3&keywords=story+structure+caldwell&qid=1697025841&sprefix=story+structure+caldwel%2Caps%2C186&sr=8-1&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840)
 
 
-## Storyboarding
+## Storyboarding & Previs
 - Input: Individual scene from script / screenplay
 - Output: Rough visual sketches of key frames from the scene, with rudimentary sounds, (movie file?, .mov?, otio?)
 
@@ -71,30 +71,6 @@ Get visual understanding and emotional feel, if the scene is 'working'
 - [Lessons from the Parasite storyboards](https://www.youtube.com/watch?v=JE26E4IM_-g)
 - [Story re-boarding at Pixar](https://www.youtube.com/watch?v=7LKPVAIcDXY)
 
-## Art
-- Input: Description of characters / environments
-- Output: Detailed sketches of characters / environments, .png?
-
-### Goal
-Discover the desired appearance of characters and environments
-
-### Tools
-- [Photoshop](https://www.adobe.com/products/photoshop.html)
-
-### Resources
-
-## Previs (Pre-visualization)
-- Input: Art + Storyboard
-- Output: .mov, more polished storyboard
-
-### Goal
-Get an even better idea of how the scene works than the storyboard
-
-### Tools
-- [FrameForge](https://www.frameforge.com)
-
-### Resources
-
 ## Editorial
 - Input: .mov, current reel
 - Output: ideas for how to update the current reel
@@ -107,6 +83,19 @@ Identify areas of the current reel that can be improved
 - [Premiere Pro](https://www.adobe.com/products/premiere.html)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+
+## Art
+- Input: Description of characters / environments
+- Output: Detailed sketches of characters / environments, .png?
+
+### Goal
+Discover the desired appearance of characters and environments
+
+### Tools
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
+
+### Resources
+- [Character Design Workflow (Concept Art) - Proko](https://www.youtube.com/watch?v=J8g3JKobvnk) 
 
 ### Resources
 
@@ -253,8 +242,9 @@ Create desired lights for the given scene
 Adjust the final render colors to be exactly the way the artists want them to be
 
 ### Tools
-
-### Resources
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - [Premiere Pro](https://www.adobe.com/products/premiere.html)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/)
+
+### Resources
+- [Pixar in a Box (Color)](https://www.khanacademy.org/computing/pixar/color)
